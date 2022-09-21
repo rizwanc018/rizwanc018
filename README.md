@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rizwan
-- 👀 I’m interested in CSS
-- 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on any front-end projects
+- 💞️ I love **CSS**
+- 👀 I’m interested in **Front-end Development**
+- 🌱 I’m currently learning **React JS**
+- 💞️ I’m looking to collaborate on any **front-end** projects
 - 📫 Reach me @ crizwan440@gmail.com
 
 <!---
