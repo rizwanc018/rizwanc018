@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rizwan
 - 👀 I’m **Full stack Engineer** (**MERN**)
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently building my second project
 - 💞️ I’m looking to collaborate on any **Full-stack** projects
 - 📫 Reach me @ crizwan440@gmail.com
 
