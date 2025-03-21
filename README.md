@@ -37,6 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+<!--
 ### Technologies & Tools
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -56,6 +57,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+-->
 
 <!--
 ![AI](https://img.shields.io/badge/AI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
@@ -78,9 +80,10 @@
 
 
 
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=rizwanc018&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanc018&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanc018&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
