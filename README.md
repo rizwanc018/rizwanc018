@@ -18,7 +18,7 @@
     src="https://github.com/rizwanc018/rizwanc018/raw/master/assets/coding.gif"
 />
 
-[![Coding gif](https://github.com/rizwanc018/rizwanc018/raw/master/assets/coding.gif)]
+![Coding gif](assets/coding.gif)
 
 <!--
 <p align="left">
