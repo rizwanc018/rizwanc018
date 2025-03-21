@@ -15,7 +15,7 @@
     align="right"
     alt="coding"
     width="370"
-    src="https://github.com/rizwanc018/rizwanc018/raw/master/assets/coding.gif"
+    src="/assets/coding.gif"
 />
 
 ![Coding gif](assets/coding.gif)
