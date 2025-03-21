@@ -1,6 +1,6 @@
 <!-- ![logo]() -->
-<h1 align="center">Hi 👋, I'm Rizwan</h1>
-<h4 align="center">I'm a passionate Full Stack Developer with extensive experience in designing and building dynamic, interactive web applications. I specialize in crafting efficient, scalable, and user-friendly solutions that deliver engaging user experiences.</h4>
+<h1 align="center">Hi 👋, I'm Fullstack Engineer</h1>
+<h4 align="center">Making awesome things for awesome people!</h4>
 
 </br>
 
@@ -19,8 +19,8 @@
 </p>
 -->
 
-💬 Ask me about **Full Stack development, DevOps, Blockchain** </br>
-📫 How to reach me **crizwan440@gmail.com** </br> 
+💬 For enquiries reach out @ **crizwan440@gmail.com**
+</br> 
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
@@ -83,8 +82,8 @@
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=rizwanc018&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanc018&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanc018&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
 
 
