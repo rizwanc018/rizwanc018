@@ -21,7 +21,6 @@
 </p>
 -->
 
-💬 For enquiries reach out @ **crizwan440@gmail.com**
 </br> 
 
 ### Languages
@@ -88,6 +87,7 @@
 -->
 
 
+💬 For enquiries reach out @ **crizwan440@gmail.com**
 
 <!--
 ## 🏆 GitHub Trophies
