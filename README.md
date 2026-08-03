@@ -26,6 +26,16 @@
 <h4 align="left">Recently I've been exploring how AI changes software engineering by building coding agents, terminal UIs, and developer tooling with TypeScript.</h4>
 <h4 align="left">I enjoy turning complex engineering problems into practical software.</h4>
 
+</br>
+
+## Currently Building
+
+- AI Coding Agent
+- Terminal UI with React + OpenTUI
+- OpenRouter SDK integrations
+- Agent architecture & tool calling
+- Developer tools
+
 
 ### Languages
 ![Next.js](https://img.shields.io/badge/next.js-%23404d59.svg?style=for-the-badge&logo=nextdotjs&logoColor=%2361DAFB)
