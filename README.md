@@ -29,7 +29,6 @@
 </br>
 
 ## Currently Building
-
 - AI Coding Agent
 - Terminal UI with React + OpenTUI
 - OpenRouter SDK integrations
