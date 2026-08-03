@@ -88,9 +88,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
--->
 
-<!--
 ![AI](https://img.shields.io/badge/AI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethersdotjs&logoColor=white)
@@ -114,13 +112,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=rizwanc018&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanc018&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanc018&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
--->
 
-<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rizwanc018&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 -->
-<!---
-rizwanc018/rizwanc018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
