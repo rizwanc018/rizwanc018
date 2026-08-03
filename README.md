@@ -1,6 +1,6 @@
 <!-- ![logo]() -->
 <h1 align="center"># Hi, I'm Rizwan 👋</h1>
-<h4 align="center">Making awesome things for awesome people!</h4>
+<h4 align="center">Full-Stack Engineer building AI coding agents, developer tools, and modern SaaS applications.</h4>
 
 </br>
 
@@ -22,6 +22,9 @@
 -->
 
 </br> 
+
+<h4 align="left">Recently I've been exploring how AI changes software engineering by building coding agents, terminal UIs, and developer tooling with TypeScript.
+</h4>
 
 ### Languages
 ![Next.js](https://img.shields.io/badge/next.js-%23404d59.svg?style=for-the-badge&logo=nextdotjs&logoColor=%2361DAFB)
