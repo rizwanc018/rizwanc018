@@ -75,19 +75,17 @@
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethersdotjs&logoColor=white)
 -->
 
-
-
 <p align="left">  
-  <a href="https://linkedin.com/in/rizwan-c/"  target="_blank"  rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohit-sutar-89687a1b6"/>
+  <a href="https://linkedin.com/in/rizwan-c/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://codepen.io/rizwanc018" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="yourusername"/>
+    <img align="center" src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+  <a href="mailto:crizwan440@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-
-
 
 
 <!--
@@ -95,9 +93,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanc018&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanc018&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-
-
-💬 For enquiries reach out @ **crizwan440@gmail.com**
 
 <!--
 ## 🏆 GitHub Trophies
