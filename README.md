@@ -21,12 +21,9 @@
 </p>
 -->
 
-</br> 
 
 <h4 align="left">Recently I've been exploring how AI changes software engineering by building coding agents, terminal UIs, and developer tooling with TypeScript.</h4>
 <h4 align="left">I enjoy turning complex engineering problems into practical software.</h4>
-
-</br>
 
 ## Currently Building
 - AI Coding Agent
