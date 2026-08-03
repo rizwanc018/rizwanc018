@@ -1,5 +1,5 @@
 <!-- ![logo]() -->
-<h1 align="center">Hi 👋, I'm Fullstack Engineer</h1>
+<h1 align="center"># Hi, I'm Rizwan 👋</h1>
 <h4 align="center">Making awesome things for awesome people!</h4>
 
 </br>
