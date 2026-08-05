@@ -1,6 +1,6 @@
 <!-- ![logo]() -->
 <h1 align="center"># Hi, I'm Rizwan 👋</h1>
-<h4 align="center">Full-Stack Engineer building AI coding agents, developer tools, and modern SaaS applications.</h4>
+<h4 align="center">Full-Stack Engineer building AI coding agents, and modern SaaS applications.</h4>
 
 </br>
 <p align="center">
